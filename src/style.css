@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(56, 68, 233, 0.548);
+    font: normal 15pt sans-serif;
+}
+
+header {
+    color: #eee;
+    text-align: center;
+}
+
+section {
+    width: 500px;
+    background-color: #eee;
+    padding: 15px;
+    border-radius: 15px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    padding: 8px;
+}
+footer {
+    text-align: center;
+}
+
