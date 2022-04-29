@@ -1,0 +1,48 @@
+
+@media (max-width: 505px) {
+
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body {
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(56, 68, 233, 0.548);
+        font: normal 12pt sans-serif;
+    }
+    
+    header {
+        color: #eee;
+        text-align: center;
+    }
+    
+    section {
+        width: 300px;
+        background-color: #eee;
+        padding: 5px;
+        border-radius: 15px;
+        margin: auto;
+        text-align: center;
+    }
+   
+    footer {
+        text-align: center;
+        margin-top: 5px;
+    }
+     
+    footer a {
+        color: white;
+        font-weight: bolder;
+        text-decoration: none;
+        font-style: italic;
+    }
+    
+    footer a:hover {
+        text-decoration: underline;
+        color: black;
+    }
+    
+}

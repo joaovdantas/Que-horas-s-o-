@@ -28,7 +28,21 @@ section {
 div{
     padding: 8px;
 }
+
 footer {
     text-align: center;
+    margin-top: 5px;
+}
+ 
+footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    font-style: italic;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: black;
 }
 
